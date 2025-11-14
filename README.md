@@ -87,7 +87,7 @@ A **Fasting API** é uma solução completa para acompanhamento de jejum intermi
 ## 🛠️ Tecnologias Utilizadas
 
 ### Core
-- **Java 17** - Linguagem de programação
+- **Java 21** - Linguagem de programação
 - **Spring Boot 3.2.0** - Framework principal
 - **Maven** - Gerenciador de dependências
 
@@ -115,7 +115,7 @@ A **Fasting API** é uma solução completa para acompanhamento de jejum intermi
 
 Antes de começar, certifique-se de ter instalado:
 
-- **Java 17 ou superior** ([Download](https://www.oracle.com/java/technologies/downloads/))
+- **Java 21 ou superior** ([Download](https://www.oracle.com/java/technologies/downloads/))
 - **Maven 3.6+** ([Download](https://maven.apache.org/download.cgi))
 - **PostgreSQL 16** ([Download](https://www.postgresql.org/download/))
 - **Git** ([Download](https://git-scm.com/downloads))
