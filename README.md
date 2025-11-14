@@ -17,7 +17,7 @@
 
 ## 📋 Sobre o Projeto
 
-A **Fasting API** é uma solução completa para acompanhamento de jejum intermitente, desenvolvida com **Java 17** e **Spring Boot 3.2.0**. O sistema oferece recursos avançados de rastreamento, análise de dados e gamificação para motivar usuários a manter a consistência em seus jejuns.
+A **Fasting API** é uma solução completa para acompanhamento de jejum intermitente, desenvolvida com **Java 21** e **Spring Boot 3.2.0**. O sistema oferece recursos avançados de rastreamento, análise de dados e gamificação para motivar usuários a manter a consistência em seus jejuns.
 
 ### ✨ Principais Funcionalidades
 
